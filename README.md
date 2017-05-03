@@ -1,2 +1,0 @@
-# JadwalSholatNeo
-JadwalSholatNeo
